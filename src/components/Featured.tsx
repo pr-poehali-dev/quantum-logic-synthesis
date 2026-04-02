@@ -14,8 +14,8 @@ export default function Featured() {
     <div id="about" className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Путь Сантьяго, Испания"
+          src="https://cdn.poehali.dev/projects/0edc93a9-a362-4163-a11b-cd7f04ba5540/files/84656eb7-463a-4017-90df-86d490021f66.jpg"
+          alt="Паломник на Пути Сантьяго"
           className="w-full h-full object-cover"
         />
       </div>
