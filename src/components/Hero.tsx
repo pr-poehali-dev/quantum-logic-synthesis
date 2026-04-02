@@ -30,7 +30,7 @@ export default function Hero() {
         <p className="text-sm md:text-base uppercase tracking-[0.3em] mb-4 opacity-80">
           23–30 мая · Испания · 120 км
         </p>
-        <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-tight">
+        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-tight">
           ПУТЬ<br />СВЯТОГО<br />ИАКОВА
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 mb-10">
