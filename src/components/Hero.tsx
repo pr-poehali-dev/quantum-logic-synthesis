@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/0edc93a9-a362-4163-a11b-cd7f04ba5540/files/41f0ea78-31f2-4a82-93a3-0a7654255c41.jpg"
+          alt="Паломники на Пути Святого Иакова"
           className="w-full h-full object-cover"
         />
       </motion.div>
