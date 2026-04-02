@@ -21,6 +21,9 @@ export default function Featured() {
       </div>
       <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1">
         <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-500">Быть Пилигримом — это</h3>
+        <p className="text-2xl lg:text-3xl font-semibold text-neutral-900 leading-snug mb-8">
+          Путь Святого Иакова — это пешее путешествие в 120 км по Испании от города Ферроль до города Сантьяго-де-Компостела с полным погружением в свою собственную аутентичность, выдерживая аскезы и достигая цели.
+        </p>
         <ul className="space-y-3 mb-10">
           {items.map((item, i) => (
             <li key={i} className="flex items-start gap-3 text-neutral-800 text-base lg:text-lg leading-snug">
